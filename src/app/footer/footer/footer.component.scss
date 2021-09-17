@@ -8,9 +8,6 @@
 .fondog {
   background-color: #f5f5f5;
 }
-.tam {
-  font-size: 19px !important;
-}
 a.link {
   text-decoration: none;
   color: white;
@@ -25,4 +22,26 @@ a:hover.link {
 
 .iconos:hover {
   opacity: 0.5;
+}
+.tam_ico{
+  height: 15px;
+  width: 15px;
+}
+
+.izq{
+  float: left;
+}
+.tam_img_pago{
+  height: 60px;
+  width:  50px;
+}
+.inner {
+  height: 168px;
+}
+.tam_img_consultas{
+  height: 70px;
+  width: 70px;
+}
+.fs-7{
+  font-size: 13px;
 }
